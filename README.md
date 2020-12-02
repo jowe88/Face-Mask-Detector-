@@ -20,5 +20,5 @@ The code will do the following:
 First (step 6) it will train the face mask detector with the use of the labelled pictures saved in the folder "dataset". 
 Then, you can apply the trained program in the following two ways: it will give you the choice to either activate your camera and check if you are wearing a face mask or upload a video to which the mechanism is applied. It furthermore indicates the percentage of certainty whether it detects a face mask or not. 
 
-This programm is based on the face mask detector by Balaji Srinivisan https://github.com/balajisrinivas/Face-Mask-Detection
+This programm is based on the face mask detector by Balaji Srinivas https://github.com/balajisrinivas/Face-Mask-Detection
 It has been enhanced with different functionalities. 
